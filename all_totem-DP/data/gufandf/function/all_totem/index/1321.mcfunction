@@ -1,0 +1,2 @@
+give @s totem_of_undying[custom_model_data=1321,item_name='[{"translate": "block.minecraft.purple_shulker_box","color": "white"}]']
+data modify storage gufandf:all_totem totem set value {index:1321,id:"purple_shulker_box"}

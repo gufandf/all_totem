@@ -1,0 +1,1 @@
+give @s totem_of_undying[custom_model_data=259,item_name='[{"translate": "block.minecraft.cherry_sign","color": "white"}]']

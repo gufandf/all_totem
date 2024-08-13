@@ -1,0 +1,2 @@
+give @s totem_of_undying[custom_model_data=151,item_name='[{"translate": "item.minecraft.brewer_pottery_sherd","color": "white"}]']
+data modify storage gufandf:all_totem totem set value {index:151,id:"brewer_pottery_sherd"}

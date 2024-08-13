@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "全物品不死图腾",
+        "description": "将所有物品替换为不死图腾",
+        "icon": {
+            "id": "minecraft:totem_of_undying"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "gufandf:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

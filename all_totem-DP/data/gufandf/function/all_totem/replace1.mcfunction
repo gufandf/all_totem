@@ -1,0 +1,1 @@
+$function gufandf:all_totem/offhand/$(item)

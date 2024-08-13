@@ -1,0 +1,2 @@
+give @s totem_of_undying[custom_model_data=525,item_name='[{"translate": "block.minecraft.deepslate_gold_ore","color": "white"}]']
+data modify storage gufandf:all_totem totem set value {index:525,id:"deepslate_gold_ore"}

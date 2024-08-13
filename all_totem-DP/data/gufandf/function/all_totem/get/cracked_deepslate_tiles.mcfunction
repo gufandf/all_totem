@@ -1,0 +1,1 @@
+give @s totem_of_undying[custom_model_data=422,item_name='[{"translate": "block.minecraft.cracked_deepslate_tiles","color": "white"}]']
